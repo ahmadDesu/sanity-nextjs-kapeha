@@ -20,5 +20,3 @@ export default async function page({ params }: Props) {
     </div>
   );
 }
-
-// Hello Hi
